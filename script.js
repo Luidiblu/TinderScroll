@@ -12,5 +12,5 @@ while (true) {
     await sleep(500)
     doshit();
     counter += 1
-    console.log(counter + "likes sent")
+    console.log(counter + " likes sent")
 }
